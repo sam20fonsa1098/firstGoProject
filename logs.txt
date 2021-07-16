@@ -1,0 +1,4 @@
+15/07/2021 21:52:06 https://random-status-code.herokuapp.com - online: true
+15/07/2021 21:52:06 https://cursos.alura.com.br - online: true
+15/07/2021 22:35:11 https://random-status-code.herokuapp.com - online: false
+15/07/2021 22:35:12 https://cursos.alura.com.br - online: true
